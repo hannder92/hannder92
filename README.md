@@ -48,7 +48,6 @@
 
 ### Universidad del Magdalena  
 **Ingeniero de Sistemas** - **2017**  
-- Especialización en Desarrollo de Software y Arquitectura de Sistemas.  
 
 ---
 
