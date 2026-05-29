@@ -12,9 +12,9 @@
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [personal-finance](https://github.com/hannder92/personal-finance) | Vue 3, Pinia, Zod, Playwright | SDD workflow, constitution-driven, unit + E2E tests |
+| [sdd-workflow](https://github.com/hannder92/sdd-workflow) | SDD + SDT methodology | Spec-driven + test-first delivery with AI agents — templates & guides |
+| [personal-finance](https://github.com/hannder92/personal-finance) | Vue 3, Pinia, Zod, Playwright | SDD in action — constitution-driven, unit + E2E tests |
 | [twitterGo](https://github.com/hannder92/twitterGo) | Go, AWS Lambda, MongoDB | Serverless REST API — auth, tweets, followers |
-| [PhotoAppApiAccountManagement](https://github.com/hannder92/PhotoAppApiAccountManagement) | Java, Spring Boot | Microservices — account management layer |
 
 ---
 
