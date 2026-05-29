@@ -1,61 +1,82 @@
-# Johann Medina - Backend Developer Specializing in Microservices
+# Johann Medina
 
-👋 ¡Hola! Soy un desarrollador backend especializado en la creación y mantenimiento de microservicios escalables y eficientes. Tengo experiencia trabajando con tecnologías como **Java**, **Go** y **Kotlin**, y he manejado tanto bases de datos **SQL** como **NoSQL**. Mi enfoque se basa en principios de diseño como **SOLID**, **Clean Architecture** y buenas prácticas de desarrollo de software.
+### Senior Software Engineer · Distributed Systems & AI-Assisted Development
+
+🔭 **Mercado Libre** — core microservices for User Accounts across 18 LATAM countries  
+🤖 **Spec-Driven Development (SDD)** with AI agents — from spec to production with clean architecture  
+🛠️ **Go** (expert) · TypeScript · Vue/React · PostgreSQL · Microservices at scale
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## Featured Work
 
-### Lenguajes de Programación  
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| [personal-finance](https://github.com/hannder92/personal-finance) | Vue 3, Pinia, Zod, Playwright | SDD workflow, constitution-driven, unit + E2E tests |
+| [twitterGo](https://github.com/hannder92/twitterGo) | Go, AWS Lambda, MongoDB | Serverless REST API — auth, tweets, followers |
+| [PhotoAppApiAccountManagement](https://github.com/hannder92/PhotoAppApiAccountManagement) | Java, Spring Boot | Microservices — account management layer |
+
+---
+
+## What I bring to the table
+
+- **Scale:** Systems handling millions of user profiles at Mercado Libre
+- **Resilience:** Technical ownership of phone validation engine — high availability across 18 countries
+- **AI-native workflow:** SDD methodology reduces manual coding and enforces design patterns
+- **Full ownership:** Architecture spec → implementation → observability
+
+---
+
+## Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,kotlin" />
+  <img src="https://skillicons.dev/icons?i=go,java,typescript,vue,react" />
 </p>
 
-### Bases de Datos  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
 </p>
 
-### Herramientas y DevOps  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,jenkins,aws" />
 </p>
 
----
-
-## 💼 Experiencia Profesional  
-
-### MercadoLibre - Backend Developer  
-**Marzo 2021 - Actual**  
-
-- **Desarrollo de Microservicios:** Diseñé e implementé microservicios en **Java, Kotlin y Go**, asegurando soluciones resilientes y optimizadas para el ecosistema de cuentas de usuario.  
-- **Gestión de Identidad y Datos:** Trabajé en el ciclo de vida de cuentas de usuario, inicialmente en el área de **perfil de usuario** y posteriormente en **validación de identidad y datos declarados**, mejorando la seguridad y confiabilidad de la plataforma.  
-- **Optimización y Escalabilidad:** Implementé soluciones con **colas de mensajería** y **bases de datos clave-valor**, además de **PostgreSQL**, garantizando el procesamiento eficiente de grandes volúmenes de datos.  
-- **Mejoras en Resiliencia y Arquitectura:** Diseñé e implementé estrategias para mejorar la **resiliencia** y el **rendimiento** de los microservicios, asegurando alta disponibilidad y robustez en entornos de producción.  
-- **Colaboración y Mejora Continua:** Trabajé en estrecha colaboración con otros equipos para optimizar procesos, reducir tiempos de respuesta y mejorar la experiencia del usuario en la plataforma.  
-
-### Valid - Backend Developer  
-**Septiembre 2017 - Marzo 2021**  
-
-- **Desarrollo de Microservicios:** Diseñé e implementé microservicios en el entorno bancario, integrando sistemas de bancos como DaviPlata y plataformas como RappiPay. Utilicé tanto servicios **SOAP** como **REST** para garantizar una comunicación eficiente y segura entre los diferentes sistemas.  
-- **Seguridad y Despliegues:** Implementé soluciones seguras para el despliegue de aplicaciones en entornos **Linux** y **AWS**, asegurando la protección de datos sensibles y la alta disponibilidad de los servicios.  
-- **Optimización y Escalabilidad:** Colaboré en la optimización de los microservicios para mejorar su rendimiento y escalabilidad, lo que permitió manejar un mayor volumen de transacciones sin comprometer la estabilidad del sistema.  
-- **Colaboración y Mejoras Continuas:** Trabajé en estrecha colaboración con otros equipos de desarrollo y operaciones para identificar áreas de mejora y aumentar la eficiencia del sistema.  
+**Architecture:** Microservices · Hexagonal · Event-driven · SDD  
+**Observability:** New Relic · Grafana · Kibana · OpsGenie  
+**AI Tools:** Claude · Cursor · GitHub Copilot
 
 ---
 
-## 🎓 Educación  
+## Experience
 
-### Universidad del Magdalena  
-**Ingeniero de Sistemas** - **2017**  
+### Mercado Libre — Senior Software Engineer
+**2021 — Present**
+
+- Core microservices for the Users domain with cross-sectional impact across 18 LATAM countries
+- Technical ownership of phone number writing and validation for the entire ecosystem
+- Pioneer of AI-assisted Spec-Driven Development — precise architectural definitions before coding
+- Focus on resilience, proactive monitoring, and operational excellence at scale
+
+### VALID — Backend Developer & Tech Lead
+**2017 — 2021**
+
+- Critical backend services for **RappiPay** and **Davivienda** in high-security banking infrastructure
+- Financial web services (SOAP & REST) with **Java/Spring Boot** on **AWS**
+- Technical leadership of internal project cost management system
 
 ---
 
-## 📫 Contacto  
+## Education
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johann.medinaco@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medina-johann/)  
-
+**Computer Engineer** — Universidad del Magdalena, Colombia (2017)
 
 ---
 
-⭐️ Si encuentras útil mi perfil o alguno de mis proyectos, ¡no dudes en darle una estrella en GitHub!  
+## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hannder92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medina-johann/)
+
+---
+
+⭐️ If you find my profile or projects useful, feel free to star them on GitHub!
