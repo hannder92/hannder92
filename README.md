@@ -1,10 +1,10 @@
 # Johann Medina
 
-### Senior Software Engineer · Distributed Systems & AI-Assisted Development
+### Backend Software Engineer · Distributed Systems & AI-Assisted Development
 
 🔭 **Mercado Libre** — core microservices for User Accounts across 18 LATAM countries  
 🤖 **Spec-Driven Development (SDD)** with AI agents — from spec to production with clean architecture  
-🛠️ **Go** (expert) · TypeScript · Vue/React · PostgreSQL · Microservices at scale
+🛠️ **Go** (expert) · Java · Kotlin · TypeScript · Vue/React · PostgreSQL · Microservices at scale
 
 ---
 
@@ -30,7 +30,7 @@
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,typescript,vue,react" />
+  <img src="https://skillicons.dev/icons?i=go,java,kotlin,typescript,vue,react" />
 </p>
 
 <p>
@@ -49,20 +49,20 @@
 
 ## Experience
 
-### Mercado Libre — Senior Software Engineer
-**2021 — Present**
+### Mercado Libre — Ssr. Software Engineer, Account Lifecycle
+**Mar 2021 — Present**
 
 - Core microservices for the Users domain with cross-sectional impact across 18 LATAM countries
 - Technical ownership of phone number writing and validation for the entire ecosystem
 - Pioneer of AI-assisted Spec-Driven Development — precise architectural definitions before coding
 - Focus on resilience, proactive monitoring, and operational excellence at scale
 
-### VALID — Backend Developer & Tech Lead
-**2017 — 2021**
+### VALID — Java Software Developer
+**Sep 2017 — Mar 2021**
 
 - Critical backend services for **RappiPay** and **Davivienda** in high-security banking infrastructure
 - Financial web services (SOAP & REST) with **Java/Spring Boot** on **AWS**
-- Technical leadership of internal project cost management system
+- Led the internal project cost management system
 
 ---
 
